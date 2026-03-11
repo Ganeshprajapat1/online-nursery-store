@@ -1,0 +1,10 @@
+.breadcrumbs{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #766c6c;
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
